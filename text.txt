@@ -3,3 +3,5 @@ class ByeWorld {
         System.out.println("Bye, World!");
     }
 }
+
+Ура!
